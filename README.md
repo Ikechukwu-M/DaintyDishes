@@ -10,7 +10,7 @@
 	<title>Dainty Dishes</title>
 </head>
 <body>
-<!-- JUMBOTRON STARTS HERE -->
+<!-- JUMBOTRON STARTS RIGHT HERE -->
 		<div class="jumbotron">
 	<div class="container-fluid">
 			<div class="row">
